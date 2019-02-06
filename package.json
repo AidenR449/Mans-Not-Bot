@@ -1,0 +1,15 @@
+{
+  "name": "Mans-Not-Bot",
+  "version": "1.0.0",
+  "description": "A bot scripted by Aiden Rector or AidenR449#1760",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aiden rector",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "ms": "^2.1.1"
+  }
+}
